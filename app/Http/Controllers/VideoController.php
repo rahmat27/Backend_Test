@@ -113,5 +113,8 @@ class VideoController extends Controller
         
         return $result; 
     }
+    public function test(){
+        // test commit
+    }
     
 }
